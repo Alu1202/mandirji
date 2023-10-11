@@ -1,0 +1,16 @@
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock 
+.idea
+.dart_tool/
+.metadata
+analysis_options.yaml
+
+
+
+
+

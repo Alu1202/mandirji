@@ -1,0 +1,4 @@
+#Thu Sep 28 13:50:08 IST 2023
+base.0=/home/alekh/Documents/jain/jain/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
